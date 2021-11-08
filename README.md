@@ -1,11 +1,11 @@
 # PandeX
 This is an online gift card and crytocurrency (P2P) application. it 80% ready for work and publishing <br>
 <br>
-<b>Features:</b>
-Login and Sign up code(Ui included)
-Firebase authentification and cloud store
-image upload
-user dashboard 
+<b>Features:</b><br>
+⭐ Login and Sign up code(Ui included)<br>
+⭐ Firebase authentification and cloud store<br>
+⭐ image upload<br>
+⭐ user dashboard <br>
 <p>
 
   <img src="https://user-images.githubusercontent.com/61922605/140728086-a54b0a86-22cd-41a7-9d5c-dc737cc22713.png" width="200" height="400" />
