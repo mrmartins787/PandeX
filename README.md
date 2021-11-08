@@ -1,7 +1,7 @@
 # PandeX
 This is an online gift card and crytocurrency (P2P) application. it 80% ready for work and publishing <br>
 <p>
-<img src="https://user-images.githubusercontent.com/61922605/140728053-60819da2-740e-4ccc-9f14-07d89824de69" width="200" height="400" />
+
   <img src="https://user-images.githubusercontent.com/61922605/140728086-a54b0a86-22cd-41a7-9d5c-dc737cc22713.png" width="200" height="400" />
   <img src="https://user-images.githubusercontent.com/61922605/140728090-bcbebb69-4a14-4b28-a848-92c5392d967d.png" width="200" height="400" />
   <img src="https://user-images.githubusercontent.com/61922605/140728094-8b77c513-bf38-4444-8b9c-89e2589f2b8a.png" width="200" height="400" />
